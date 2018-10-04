@@ -1,4 +1,20 @@
-# fanboard-website
-Powered by Blocs App, HTML5, CSS3, JavaScript, jQuery and Bootstrap.
+# FanBoard Website
+Rebuild Fanboard website using Blocs as a requirement. 
 
-https://marceloglacial.github.io/fanboard-website/dist/
+## Front-end 
+
+* HTML
+* CSS
+* JavaScript
+
+## Back-end
+
+* Wordpress
+
+## Live Demo
+
+https://glacial.gitlab.io/2011-luciana-studart/
+
+## Screnshot
+
+![screenshot](design/screenshot.jpg)
