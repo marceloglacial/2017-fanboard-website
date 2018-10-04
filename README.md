@@ -6,6 +6,7 @@ Rebuild Fanboard website using Blocs as a requirement.
 * HTML
 * CSS
 * JavaScript
+* Blocs
 
 ## Back-end
 
@@ -13,7 +14,7 @@ Rebuild Fanboard website using Blocs as a requirement.
 
 ## Live Demo
 
-https://glacial.gitlab.io/2011-luciana-studart/
+https://glacial.gitlab.io/2017-fanboard-website
 
 ## Screnshot
 
