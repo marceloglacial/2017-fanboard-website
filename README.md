@@ -14,7 +14,7 @@ Rebuild Fanboard website using Blocs as a requirement.
 
 ## Live Demo
 
-https://glacial.gitlab.io/2017-fanboard-website
+https://marceloglacial.github.io/2017-fanboard-website/front-end/
 
 ## Screnshot
 
